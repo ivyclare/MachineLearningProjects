@@ -14,7 +14,7 @@ You can see the Confusion Matrixes below:
 
 ![day](images/iris.png)
 
-![day](../images/breast.png)
+![day](images/breast.png)
 
-![day](../images/liver.png)
+![day](images/liver.png)
 
