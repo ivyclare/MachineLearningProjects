@@ -12,7 +12,7 @@ The performance measures **(accuracy,sensitivity and specificity)** were measure
 
 You can see the Confusion Matrixes below:
 
-![day](../images/iris.png)
+![day](images/iris.png)
 
 ![day](../images/breast.png)
 
